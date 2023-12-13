@@ -19,5 +19,6 @@ COPY . .
 
 EXPOSE 8080
 CMD [ "npm", "start" ]
+Sunny Sinha
 
 # This is dummy change for git demo
