@@ -10,3 +10,4 @@ some chage
 Demo of git conflict
 This change is done by developer 2
 Hari lives in usa
+Hari is now in bangalore and works in java home cloud
