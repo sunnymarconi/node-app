@@ -1,2 +1,3 @@
 Sunny works in AWS,DevOps,Mendix
 Sunny also knows about linux , Shell scripting 
+Sunny also know boto3 and python
