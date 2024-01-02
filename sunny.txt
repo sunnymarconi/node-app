@@ -4,3 +4,4 @@ sunny did hi M.E from Anna university
 Sunny is prepraing for DevOps
 showing stash example
 stash is used to save the changes seperately
+sunny has done training from kolkata metro rail
