@@ -1,2 +1,3 @@
 Sunny knows about aws, mendix ,python and devops and Scripting
 Sunny is now learning DevOps
+Sunny is preparing for Mendix Intermediate
