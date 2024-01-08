@@ -1,3 +1,4 @@
 Sunny works in AWS,DevOps,Mendixss
 Sunny also knows about linux , Shell scripting 
 Sunny also know boto3 and python
+Sunny is practicing git todays
