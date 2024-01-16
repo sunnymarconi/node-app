@@ -9,7 +9,7 @@ Learning branching strategies
 some chage
 Demo of git conflict
 This change is done by developer 2
-Hari lives in usa
+Hari lives in Dubai
 Hari is now in Canada and works in java home cloud
 Hari is working on conflicts
 This is to demonstrate conflicts
