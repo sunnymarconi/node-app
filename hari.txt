@@ -15,4 +15,3 @@ Hari is working on conflicts
 This is to demonstrate conflicts
 Developer 2 changes another line
 PRacticing ..
-Today i will practice git completely...
