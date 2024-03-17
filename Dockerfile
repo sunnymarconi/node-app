@@ -19,9 +19,3 @@ COPY . .
 
 EXPOSE 8080
 CMD [ "npm", "start" ]
-Sunny Sinha
-Works at Marconi Technology
-Marconi is located in hyderabad , Telangana
-# This is dummy change for git demo
-India is a country
-Developer 2 changes 
